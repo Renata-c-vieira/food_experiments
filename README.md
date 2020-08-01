@@ -27,15 +27,13 @@
 + Food portal: interface to aggregate, organize & curate informational resources as mashups, dossiers, infographics, taxonomies, databases; making it more meaningful and easier to be accessed for humanitarian, social and public interest topics;
 + Food classification: use of artificial intelligence techniques for tasks as food classification; identification of ingredients, procedence, extraction of features and cultural analysis. Examples of this kind of propositions are the food and drink related competitions on Kaggle, using some of the references in the section “Datasets”;
 
-### Actors:  
-+ Gastrosophie analysts
-+ Community kitchen
-+ Scientists
-+ Food Activists
-+ Foodies
+#### navigation paths  
++ by ingredient
++ by culture
++ by country
 
 ### Framing a concrete scenario in the OI-RI related to the cultural diversity demonstrator  
-#### research questions  
+#### Research questions  
 + which ingredients occur most frequently across different recipes/connect different recipes and cultures?
 + which combination of ingredients is found the most across recipes and does this say anything about their cultural origin?
 + which ingredients can be identified as “signature ingredients” of a certain culture?
@@ -44,19 +42,18 @@
 + how homogeneous/heterogeneous is the naming of certain ingredients across cultures?
 + taking scientific findings as a starting point, what is the message your food movement wants to convey to citizens? what should they get active about or participate in? what do you aim to change or provoke with your food movement?
 
-#### actors experience  
-+ scientists
-+ citizen activists
+#### Actors experience  
++ Citizen activists
 + NGOs
-+ food companies
-+ agricultural companies
++ Food companies
++ Agricultural companies
++ Gastrosophie analysts
++ Community kitchen
++ Scientists
++ Food Activists
++ Foodies
 
-#### navigation paths  
-+ by ingredient
-+ by culture
-+ by country
-
-#### outline of the results (architecture of the portal etc.)  
+#### Outline of the results (architecture of the portal etc.)  
 + scientific: articles, graphs, visualisations
 + social media: links/examples of food and biodiversity activists & media stars, e.g. Greta Thunberg
 + NGO: link to reports, documents of food/policy/environment related documents, e.g. UN, etc
